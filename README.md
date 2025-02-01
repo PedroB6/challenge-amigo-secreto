@@ -29,7 +29,7 @@ El propósito de este proyecto fue aplicar los conocimento en lógica de program
 # 3. Instrucciones
 
 1. Ya se cuenta con una página web, por lo que solo se debe dirigir al siguiente link: 
-[Link de la página web](https://pedrob6.github.io/juego-secreto/)
+[Link de la página web](https://pedrob6.github.io/challenge-amigo-secreto/)
 
 2. En el espacio de "Escribe un nombre", se digita el primer nombre para entrar al sorteo:
 ![Primer paso](./assets/captura-1.PNG)
