@@ -51,5 +51,5 @@ El propósito de este proyecto fue aplicar los conocimento en lógica de program
 # 4. ¡A jugar!
 
 ¿Te animas a jugar este divertido reto?
-¡Anímate, te desafio a hacerlo en un solo intento!
+¡Anímate, te desafio a adivinar el nombre que saldrá en pantalla!
 
